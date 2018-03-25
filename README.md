@@ -3,4 +3,4 @@ Practice and assignments
 
 
 
-All my assignments and ractoce work on javascript.
+All my assignments and Practice work on javascript.
